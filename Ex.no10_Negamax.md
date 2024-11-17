@@ -16,7 +16,7 @@ Write a Nega-max search algorithm to find the root value of Player from the  gra
 9. Stop the program. 
 
 ## Program:
-```
+```python
 import random
 
 # Initialize game grid
