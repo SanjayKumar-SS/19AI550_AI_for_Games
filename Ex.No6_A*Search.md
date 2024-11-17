@@ -18,7 +18,7 @@ To write a python program to simulate the Zomibie Survival game using A* Search
 11.  Stop the program
 
 ### Program:
-```
+```python
 import heapq
 import random
 
