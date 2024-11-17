@@ -1,5 +1,5 @@
 # Ex.No: 11  Mini Project 
-### DATE:                                                                            
+### DATE: 25/10/2024                                                                        
 ### REGISTER NUMBER : 212221240048
 
 # MiniProject_AI for Games
