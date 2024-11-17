@@ -16,7 +16,7 @@ Write a Alpha beta pruning algorithm to find the optimal value of MAX Player fro
 9.  Stop the program. 
 
 ### Program:
-```
+```python
 # Define a large negative and positive value to represent infinity
 INF = float('inf')
 
