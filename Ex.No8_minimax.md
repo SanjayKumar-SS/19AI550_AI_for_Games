@@ -16,7 +16,7 @@ Write a mini-max search algorithm to find the optimal value of MAX Player from t
 9. Stop the program. 
 
 ### Program:
-```
+```python
 import math
 def minimax (curDepth, nodeIndex,
              maxTurn, scores,
